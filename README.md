@@ -33,7 +33,7 @@ Cada arquivo inclui a descrição do problema resolvido como comentário no iní
 2. Navegue até o diretório do problema desejado.
 3. Execute o código utilizando **Node.js**:
    ```bash
-   node problemaX.js
+   node src/problemas/problemaX.js
    ```
 
 ## Contribuições

@@ -1,8 +1,10 @@
 /*
-O seu primeiro programa em qualquer linguagem de programação normalmente é o "Hello World!". Neste primeiro problema tudo o que você precisa fazer é imprimir esta mensagem na tela.
-Entrada
-Este problema não possui nenhuma entrada.
-Saída
-Você deve imprimir a mensagem "Hello World!" e em seguida o final de linha, conforme o exemplo abaixo.
-*/
-console.log("Hello World!");
+Leia 2 valores inteiros e armazene-os nas variáveis A e B. Efetue a soma de A e B atribuindo o seu resultado na variável X. 
+Imprima X conforme exemplo apresentado abaixo. Não apresente mensagem alguma além daquilo que está sendo especificado e não esqueça de imprimir o fim de linha após o resultado, caso contrário, você receberá "Presentation Error".
+ */
+
+// lines serve para receber numero que o beecrowd vai mandar para testar, se quiser testar manualmente utilize numero para aleatorios.Isso vale para todos os codigos
+let A = 10; //parseInt(lines[0]); 
+let B = 9; //parseInt(lines[1]) ; 
+X = A + B;
+console.log("X = " + X);
