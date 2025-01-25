@@ -15,7 +15,6 @@ Os arquivos estão organizados de forma simples, contendo o nome ou identificado
 Exemplo:
 ```
 |-src
-    |-docs
     |-problemas
         |- problema1000.js
         |- problema1001.js
