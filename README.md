@@ -27,7 +27,7 @@ Cada arquivo inclui a descrição do problema resolvido como comentário no iní
 ## Como Utilizar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/henrymzs/beecrowd-problemas-resolvidos.git
+   https://github.com/henrymzs/Beecrowd-Issues-Solved.git
    ```
 2. Navegue até o diretório do problema desejado.
 3. Execute o código utilizando **Node.js**:
